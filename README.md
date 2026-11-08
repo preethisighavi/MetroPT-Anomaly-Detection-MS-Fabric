@@ -1,6 +1,6 @@
 # MetroPT-Anomaly-Detection-MS-Fabric
 
-# MetroPT Industrial Compressor Anomaly Detection
+## MetroPT Industrial Compressor Anomaly Detection
 
 An end-to-end machine learning project for detecting abnormal behavior and potential failures in industrial air compressors.
 
